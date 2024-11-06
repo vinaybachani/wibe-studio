@@ -6,7 +6,7 @@
     "@fontsource/kaushan-script": "^4.5.2",
     "@fontsource/sirin-stencil": "^4.5.2",
     "@testing-library/jest-dom": "^5.16.2",
-    "@testing-library/react": "^12.1.4",
+    "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^6.2.8",
     "gsap": "^3.9.1",
